@@ -1,1 +1,0 @@
-<h2>Página Inicial do Sistema de Cadastro</h2>
